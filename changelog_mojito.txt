@@ -1,0 +1,11 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Redmi Note 10
+Device maintainers: XscarGOD
+
+==== 16 June, 2022 ====
+
+==== All Credits goes to the following ====
+- @xkaen - commits, tree and vendor
+-  @Anush02198 - WCSF kernel
+- @everyone who made this update possible
